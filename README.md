@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently studying Computer Science<br>Trying to become a great Software Developer and to make this life better
+I'm currently studying Computer Science<br>
+Trying to become a great Software Developer<br>
+And to make this life better :horse:<br>
 
 
 ## 🌐 Socials:
